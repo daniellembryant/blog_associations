@@ -1,0 +1,7 @@
+### Post Index
+GET http://localhost:3000/posts
+Content-Type: application/json
+
+### Tag Index
+GET http://localhost:3000/tags
+Content-Type: application/json
